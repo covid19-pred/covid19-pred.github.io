@@ -1,0 +1,9 @@
+name: "Predicciones Covid19"
+ouput_dir: "."
+navbar:
+  title: "COVID19"
+  left:
+    - text: "Motivación"
+      href: index.html
+    - text: "Predicciones"
+      href: about.html
